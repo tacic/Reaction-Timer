@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+}
+
+#shape {    
+      width: 100%;
+      height: 100%;
+      background-color: red;
+      display: none;
+      position: relative;
+      border-radius: 10%; 
+      background-color: rgb(96, 9, 71); 
+      width: 100%; 
+      height: 100%;
+      top: 10px;
+      left: 10px; 
+      display: block;
+}
+        
+.bold {
+    font-weight: bold;
+}
+
+style="
